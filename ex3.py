@@ -21,3 +21,9 @@ print "How about some more?"
 print "Is it greater?", 5 > -2
 print "Is it greater or equal?", 5 >= -2
 print "Is it less or equal?", 5 <= -2
+
+print "What is % of 4 and 2?", 4 % 2
+print "What is % of 5 and 2?", 5 % 2
+
+print "What is 4 / 3?", 4 / 3
+print "What is 4.0 / 3.0?", 4.0 / 3.0
